@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Ellessm.
+
+I'm working on automated stock trading and I'm currently learning how to integrate AI tools into these applications. 
+
+Contact me at Ellessm64@gmail.com
 
 <!--
 **Ellessm/Ellessm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
